@@ -1,0 +1,16 @@
+body{
+    background-color: lightyellow;
+
+}
+img{
+    /*display: block;*/
+    width: 30%;
+    margin:auto;
+}
+div{
+    display: inline-block;
+    width: 33%;
+}
+#menu{
+    display: inline;
+}
